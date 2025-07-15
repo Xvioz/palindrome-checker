@@ -51,6 +51,16 @@ palindrome-checker/
 
 ---
 
+## 🖼️ Preview
+
+![Palindrome Screenshot](./palindrome.png)
+![Palindrome Screenshot](./palindrome2.png)
+![Palindrome Screenshot](./palindrome3.png)
+![Palindrome Screenshot](./palindrome4.png)
+![Palindrome Screenshot](./palindrome5.png)
+
+---
+
 ## 📬 Feedback
 
 Have suggestions or want to contribute?  
